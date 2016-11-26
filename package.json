@@ -1,22 +1,22 @@
 {
-  "name": "npm-hello-world",
-  "version": "1.0.0",
-  "description": "npm demo",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sammffl/npm-hello-world.git"
-  },
-  "keywords": [
-    "demo"
-  ],
-  "author": "Sam.Shen",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sammffl/npm-hello-world/issues"
-  },
-  "homepage": "https://github.com/sammffl/npm-hello-world#readme"
+    "name": "npm-hello-world-sammffl",
+    "version": "1.0.0",
+    "description": "npm demo",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sammffl/npm-hello-world.git"
+    },
+    "keywords": [
+        "demo"
+    ],
+    "author": "Sam.Shen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sammffl/npm-hello-world/issues"
+    },
+    "homepage": "https://github.com/sammffl/npm-hello-world#readme"
 }
